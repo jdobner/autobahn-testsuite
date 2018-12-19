@@ -16,7 +16,7 @@ Interoperation testing like this really moves the Open Web forward."
 **Greg Wilkins, [Jetty](http://eclipse.org/jetty) author, Chief Architect at [Intalio](http://www.intalio.com/)**
 
 > "During the time of implementing the latest WebSocket version in [Netty](http://netty.io/) and [Undertow](https://github.com/undertow-io/undertow) we were searching for a way to test our implementations and make sure they are 100% RFC compliant. While we already had unit tests in place there was a lack of good tests for the whole implementation. Using the AutobahnTestsuite for this purpose allowed us to concentrate on the implementation and made it easy to catch regressions as soon as possible."
-**Norman Maurer, Principal Software Engineer at [Red Hat](http://www.redhat.com/)**
+**Normin Maurer, Principal Software Engineer at [Red Hat](http://www.redhat.com/)**
 
 
 ## Reports
