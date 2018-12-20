@@ -2,7 +2,7 @@
 
 ## v0.6.3
 
-* maintenance release
+* mintenance release
 
 ## v0.6.2
 
